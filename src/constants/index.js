@@ -17,6 +17,7 @@ import {
   docker,
   meta,
   starbucks,
+  circle,
   tesla,
   shopify,
   carrent,
@@ -54,7 +55,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Full Stack Developer",
+    title: "Machine Learning",
     icon: creator,
   },
 ];
@@ -116,55 +117,41 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Frontend React Developer",
+    company_name: "Origami",
+    icon: circle,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Nov 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developing and maintaining IOS application using React Native and other related technologies.",
+      "Worked as a founding member of the team and was responsible for the development of the application from scratch.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked on the speech to text feature using AI.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Full Stack Developer",
+    company_name: "Feel Good Fitness",
+    icon: circle,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2022 - Sep 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed a web applications for a fitness firm using MERN stack.",
+      "Collaborating with a teams of 5 developers to create a high-quality product.",
+      "Implementing Redux for state management to improve app efficiency by 1.5X design.",
+      "Participated in code reviews by leading frontend reviews.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    title: "Computer Sales Associate",
+    company_name: "Best Buy",
+    icon: circle,
+    iconBg: "#383E56",
+    date: "Sep 2022 - Nov 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Helped customers to make a right choice of computer hardware and software based on their needs.",
+      "Gained some outstanding communication skills while interacting with different people and handling situations.",
+      "Showcased debugging skills by helping Geek Squad.",
     ],
   },
 ];
@@ -198,7 +185,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Crypto Tracker",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
