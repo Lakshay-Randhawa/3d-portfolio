@@ -147,7 +147,7 @@ const experiences = [
     company_name: "Best Buy",
     icon: circle,
     iconBg: "#383E56",
-    date: "Sep 2022 - Nov 2023",
+    date: "Sep 2022 - Nov 2022",
     points: [
       "Helped customers to make a right choice of computer hardware and software based on their needs.",
       "Gained some outstanding communication skills while interacting with different people and handling situations.",
