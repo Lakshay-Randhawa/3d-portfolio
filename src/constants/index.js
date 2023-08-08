@@ -167,7 +167,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Transformed by business from using excel sheets and what not to an outstanding web application.",
+      "Transformed my business from using excel sheets and what not to an outstanding web application.",
     name: "Chloe Catherine",
     designation: "Owner",
     company: "Feel Good Fitness",
@@ -175,7 +175,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "One of the most active students in the class who always things differently and comes up with new ideas.",
+      "One of the most active students in the class who always thinks differently and comes up with new ideas.",
     name: "Ali Moussa",
     designation: "Instructor",
     company: "SAIT",
